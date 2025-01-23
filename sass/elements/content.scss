@@ -83,12 +83,9 @@ $content-table-foot-cell-color: #{cv.getVar("text-strong")} !default;
   }
 
   h1 {
-    font-size: 2em;
+    font-size: 1.85em;
     margin-bottom: 0.5em;
 
-    &:not(:first-child) {
-      margin-top: 1em;
-    }
   }
 
   h2 {
